@@ -92,18 +92,6 @@ artemiy = {
 | 📚 **FU Case School** | Diploma 1st class — Unit Economics & Case Method *(2025)* |
 | 📊 **School of Analytics — The Experts** | Key Data Analytics Competencies *(2025–2026)* |
 | 🤖 **T-Intensive by T-Bank** | Systems Analysis & Modelling *(2026)* |
-
----
-
-## 📬 Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:CherniyArtemiy@yandex.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cherniyartemiy-sketch)
-
-</div>
-
 ---
 
 <div align="center">
