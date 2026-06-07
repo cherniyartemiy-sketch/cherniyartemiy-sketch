@@ -59,17 +59,6 @@ artemiy = {
 
 ---
 
-## 📊 Dashboards
-
-> Примеры реальных дашбордов, построенных в DataLens:
-
-| Dashboard | Link |
-|-----------|------|
-| 📊 Dashboard #1 | [Открыть →](https://datalens.ru/k376g3ogz4tu5) |
-| 📊 Dashboard #2 | [Открыть →](https://datalens.ru/gyujrotyv4tq1) |
-
----
-
 ## 🛠 Tech Stack
 
 | Category | Tools |
