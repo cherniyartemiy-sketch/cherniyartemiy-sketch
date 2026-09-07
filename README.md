@@ -87,8 +87,8 @@ artemiy = {
 
 | | |
 |--|--|
-| 🎓 **RUDN University** | Data Analytics — GPA **4.9** *(2028)* |
-| 🌐 **RUDN University** | English Translation — IELTS **7.0** *(2028)* |
+| 🎓 **RUDN University** | Data Analytics — GPA **4.9** *(2027)* |
+| 🌐 **RUDN University** | English Translation — IELTS **7.0** *(2027)* |
 | 📚 **FU Case School** | Diploma 1st class — Unit Economics & Case Method *(2025)* |
 | 📊 **School of Analytics — The Experts** | Key Data Analytics Competencies *(2025–2026)* |
 | 🤖 **T-Intensive by T-Bank** | Systems Analysis & Modelling *(2026)* |
