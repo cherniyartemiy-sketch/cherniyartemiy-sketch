@@ -40,7 +40,7 @@ artemiy = {
 
 ## 💼 Work Experience
 
-### 📊 Data Analyst — Raiffeisen Bank *(Mar 2026 — Present)*
+### 📊 Data Analyst — Raiffeisen Bank *(Mar 2026 — Ceptember 2026)*
 > Финансовая аналитика, автоматизация отчётности, разработка BI-дашбордов
 
 - Построил **8 дашбордов** по финансовым показателям в DataLens
